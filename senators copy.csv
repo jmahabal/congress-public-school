@@ -1,0 +1,186 @@
+State,Class,Name,Party,Education,BA School Type
+Alabama,3,Richard Shelby,Republican,"University of Alabama, Tuscaloosa(BA; LLB)
+Birmingham School of Law(JD)",Public
+Alabama,2,Luther Strange,Republican,"Tulane University(BA, JD)",Private
+Alaska,3,Lisa Murkowski,Republican,"Georgetown University(BA)
+Willamette University (JD)",Private
+Alaska,2,Dan Sullivan,Republican,"Harvard University(BA)
+Georgetown University(MS; JD)",Private
+Arizona,3,John McCain,Republican,United States Naval Academy (BS),Military
+Arizona,1,Jeff Flake,Republican,"Brigham Young University, Utah (BA; MA)",Private
+Arkansas,3,John Boozman,Republican,"University of Arkansas, Fayetteville(attended)
+Southern College of Optometry(OD)",Public
+Arkansas,2,Tom Cotton,Republican,"Harvard University(BA; JD)
+Claremont Graduate University(attended)",Private
+California,1,Dianne Feinstein,Democratic,Stanford University(BA),Private
+California,3,Kamala Harris,Democratic,"Howard University(BA)
+University of California, Hastings (JD)",Private
+Colorado,3,Michael Bennet,Democratic,"Wesleyan University(BA)
+Yale University (JD)",Private
+Colorado,2,Cory Gardner,Republican,"Colorado State University, Fort Collins(BA)
+University of Colorado, Boulder (JD)",Public
+Connecticut,3,Richard Blumenthal,Democratic,"Harvard University(BA)
+Trinity College, Cambridge(attended)
+Yale University (JD)",Private
+Connecticut,1,Chris Murphy,Democratic,"Williams College (BA)
+University of Connecticut, Hartford (JD)",Private
+Delaware,1,Tom Carper,Democratic,"Ohio State University(BA)
+University of Delaware, Newark (MBA)",Public
+Delaware,2,Chris Coons,Democratic,"Amherst College (BA)
+Yale University(MA, JD)",Private
+Florida,1,Bill Nelson,Democratic,"University of Florida(attended)
+Yale University(BA)
+University of Virginia (JD)",Private
+Florida,3,Marco Rubio,Republican,"Tarkio College(attended)
+Santa Fe College(attended)
+University of Florida (BA)
+University of Miami (JD)",Public
+Georgia,3,Johnny Isakson,Republican,University of Georgia (BBA),Public
+Georgia,2,David Perdue,Republican,Georgia Institute of Technology(BS; MS),Public
+Hawaii,3,Brian Schatz,Democratic,Pomona College (BA),Private
+Hawaii,1,Mazie Hirono,Democratic,"University of Hawaii, Manoa (BA)
+Georgetown University (JD)",Public
+Idaho,3,Mike Crapo,Republican,"Brigham Young University, Utah (BA)
+Harvard University (JD)",Private
+Idaho,2,Jim Risch,Republican,"University of Wisconsin, Milwaukee(attended)
+University of Idaho, Moscow (BS;JD)",Public
+Illinois,2,Dick Durbin,Democratic,Georgetown University(BS; JD),Private
+Illinois,3,Tammy Duckworth,Democratic,"University of Hawaii, Manoa (BA)
+George Washington University(MA)
+Northern Illinois University(attended)
+Capella University(PhD)",Public
+Indiana,1,Joe Donnelly,Democratic,University of Notre Dame(BA; JD),Private
+Indiana,3,Todd Young,Republican,"United States Naval Academy (BS)
+University of Chicago(MBA)
+University of London (MA)
+Indiana University, Indianapolis(JD)",Military
+Iowa,3,Chuck Grassley,Republican,"University of Northern Iowa(BA; MA)
+University of Iowa (attended)",Public
+Iowa,2,Joni Ernst,Republican,"Iowa State University(BA)
+Columbus State University(MPA)",Public
+Kansas,2,Pat Roberts,Republican,"Kansas State University, Manhattan(BA)",Public
+Kansas,3,Jerry Moran,Republican,"Fort Hays State University(attended)
+University of Kansas, Lawrence (BS;JD)",Public
+Kentucky,2,Mitch McConnell,Republican,"University of Louisville (BA)
+University of Kentucky (JD)",Public
+Kentucky,3,Rand Paul,Republican,"Baylor University(attended)
+Duke University(MD)",Private
+Louisiana,2,Bill Cassidy,Republican,"Louisiana State University, Baton Rogue(BS)
+Louisiana State University, New Orleans(MD)",Public
+Louisiana,3,John N. Kennedy,Republican,"Vanderbilt University(BA)
+University of Virginia (JD)
+Magdalen College, Oxford (BCL)",Private
+Maine,2,Susan Collins,Republican,St. Lawrence University(BA),Private
+Maine,1,Angus King,Independent,"Dartmouth College (BA)
+University of Virginia (JD)",Private
+Maryland,1,Ben Cardin,Democratic,"University of Pittsburgh(BA)
+University of Maryland, Baltimore (JD)",Private
+Maryland,3,Chris Van Hollen,Democratic,"Swarthmore College (BA)
+Georgetown University (JD)
+Harvard University(MPP)",Private
+Massachusetts,1,Elizabeth Warren,Democratic,"George Washington University(attended)
+University of Houston (BS)
+Rutgers University, Newark (JD)",Public
+Massachusetts,2,Ed Markey,Democratic,Boston College (BA;JD),Private
+Michigan,1,Debbie Stabenow,Democratic,Michigan State University(BA; MSW),Public
+Michigan,2,Gary Peters,Democratic,"Alma College(BA)
+University of Detroit (MBA)
+Wayne State University (JD)
+Michigan State University(MA)",Private
+Minnesota,1,Amy Klobuchar,Democratic,"Yale University(BA)
+University of Chicago (JD)",Private
+Minnesota,2,Al Franken,Democratic,Harvard University(BA),Private
+Mississippi,2,Thad Cochran,Republican,"University of Mississippi, Oxford (BA;JD)",Public
+Mississippi,1,Roger Wicker,Republican,"University of Mississippi, Oxford (BA;JD)",Public
+Missouri,1,Claire McCaskill,Democratic,"University of Missouri, Columbia (BS;JD)",Public
+Missouri,3,Roy Blunt,Republican,"Southwest Baptist University, Bolivar (BA)
+Missouri State University, Springfield(MA)",Private
+Montana,1,Jon Tester,Democratic,University of Great Falls(BS),Private
+Montana,2,Steve Daines,Republican,"Montana State University, Bozeman (BS)",Public
+Nebraska,1,Deb Fischer,Republican,"University of Nebraska, Lincoln (BS)",Public
+Nebraska,2,Ben Sasse,Republican,"Harvard University(BA)
+St. John's College, Maryland (MA)
+Yale University(MA, MPhil,PhD)",Private
+Nevada,1,Dean Heller,Republican,University of Southern California(BBA),Private
+Nevada,3,Catherine Cortez Masto,Democratic,"University of Nevada, Reno (BS)
+Gonzaga University (JD)",Public
+New Hampshire,2,Jeanne Shaheen,Democratic,"Shippensburg University(BA)
+University of Mississippi, Oxford (MSS)",Public
+New Hampshire,3,Maggie Hassan,Democratic,"Brown University(BA)
+Northeastern University (JD)",Private
+New Jersey,1,Bob Menendez,Democratic,"St. Peter's University(BA)
+Rutgers University, Newark (JD)",Private
+New Jersey,2,Cory Booker,Democratic,"Stanford University(BA; MA)
+Queen's College, Oxford (MA)
+Yale University (JD)",Private
+New Mexico,2,Tom Udall,Democratic,"Prescott College (BA)
+Downing College, Cambridge(LLB)
+University of New Mexico, Albuquerque(JD)",Private
+New Mexico,1,Martin Heinrich,Democratic,"University of Missouri, Columbia (BS)
+University of New Mexico, Albuquerque(attended)",Public
+New York,3,Chuck Schumer,Democratic,Harvard University(BA; JD),Private
+New York,1,Kirsten Gillibrand,Democratic,"Dartmouth College (BA)
+University of California, Los Angeles(JD)",Private
+North Carolina,3,Richard Burr,Republican,Wake Forest University(BA),Private
+North Carolina,2,Thom Tillis,Republican,"Chattanooga State Community College(attended)
+University of Maryland, University College (BA)",Public
+North Dakota,3,John Hoeven,Republican,"Dartmouth College (BA)
+Northwestern University(MBA)",Private
+North Dakota,1,Heidi Heitkamp,Democratic,"University of North Dakota(BA)
+Lewis and Clark College(JD)",Public
+Ohio,1,Sherrod Brown,Democratic,"Yale University(BA)
+Ohio State University(MA; MPA)",Private
+Ohio,3,Rob Portman,Republican,"Dartmouth College (BA)
+University of Michigan, Ann Arbor(JD)",Private
+Oklahoma,2,Jim Inhofe,Republican,University of Tulsa (BA),Private
+Oklahoma,3,James Lankford,Republican,"University of Texas, Austin(BS)
+Southwestern Baptist Theological Seminary(MDiv)",Public
+Oregon,3,Ron Wyden,Democratic,"University of California, Santa Barbara(attended)
+Stanford University(BA)
+University of Oregon (JD)",Private
+Oregon,2,Jeff Merkley,Democratic,"Stanford University(BA)
+Princeton University(MPA)",Private
+Pennsylvania,1,Bob Casey Jr.,Democratic,"College of the Holy Cross(BA)
+Catholic University of America (JD)",Private
+Pennsylvania,3,Pat Toomey,Republican,Harvard University(BA),Private
+Rhode Island,2,Jack Reed,Democratic,"United States Military Academy (BS)
+Harvard University(MPP, JD)",Military
+Rhode Island,1,Sheldon Whitehouse,Democratic,"Yale University(BA)
+University of Virginia (JD)",Private
+South Carolina,2,Lindsey Graham,Republican,"University of South Carolina, Columbia (BA;JD)",Public
+South Carolina,3,Tim Scott,Republican,"Presbyterian College(attended)
+Charleston Southern University(BS)",Private
+South Dakota,3,John Thune,Republican,"Biola University(BS)
+University of South Dakota(MBA)",Private
+South Dakota,2,Mike Rounds,Republican,South Dakota State University(BS),Public
+Tennessee,2,Lamar Alexander,Republican,"Vanderbilt University(BA)
+New York University (JD)",Private
+Tennessee,1,Bob Corker,Republican,"University of Tennessee, Knoxville (BS)",Public
+Texas,2,John Cornyn,Republican,"Trinity University, Texas (BA)
+St. Mary's University, Texas (JD)
+University of Virginia (LLM)",Private
+Texas,1,Ted Cruz,Republican,"Princeton University(BA)
+Harvard University (JD)",Private
+Utah,1,Orrin Hatch,Republican,"Brigham Young University, Utah (BA)
+University of Pittsburgh(JD)",Private
+Utah,3,Mike Lee,Republican,"Brigham Young University, Utah (BA; JD)",Private
+Vermont,3,Patrick Leahy,Democratic,"St. Michael's College (BA)
+Georgetown University (JD)",Private
+Vermont,1,Bernie Sanders,Independent,"Brooklyn College(attended)
+University of Chicago (BS)",Private
+Virginia,2,Mark Warner,Democratic,"George Washington University(BA)
+Harvard University (JD)",Private
+Virginia,1,Tim Kaine,Democratic,"University of Missouri, Columbia (BA)
+Harvard University (JD)",Public
+Washington,3,Patty Murray,Democratic,"Washington State University, Pullman (BA)",Public
+Washington,1,Maria Cantwell,Democratic,Miami University(BA),Public
+West Virginia,1,Joe Manchin,Democratic,"West Virginia University, Morgantown(BS)",Public
+West Virginia,2,Shelley Moore Capito,Republican,"Duke University(BS)
+University of Virginia (MEd)",Private
+Wisconsin,3,Ron Johnson,Republican,"University of Minnesota, Twin Cities(BS)",Public
+Wisconsin,1,Tammy Baldwin,Democratic,"Smith College(BA)
+University of Wisconsin, Madison (JD)",Private
+Wyoming,2,Mike Enzi,Republican,"George Washington University(BS)
+University of Denver (MBA)",Private
+Wyoming,1,John Barrasso,Republican,"Rensselaer Polytechnic Institute(attended)
+Georgetown University(BS; MD)",Private
