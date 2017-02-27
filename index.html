@@ -1,5 +1,13 @@
 <!DOCTYPE html>
 
+
+<!-- 
+
+beeswarm of # of degrees
+
+ -->
+
+
 <meta charset='utf-8'>
 <head>
 
@@ -9,7 +17,6 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <!-- <link rel="stylesheet" type="text/css" href="js/bootstrap.css"> -->
 
-<link rel="stylesheet" type="text/css" href="style.css">
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <!-- <script src="js/bootstrap.js"></script> -->
@@ -19,46 +26,61 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
 <!-- <script src="js/underscore.min.js"></script> -->
-<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Inconsolata|Source+Serif+Pro|Merriweather|Merriweather+Sans:300" rel="stylesheet">
+<script src="https://use.fontawesome.com/c9c5f423ff.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="https://d3js.org/topojson.v2.min.js"></script>
 
 </head>
 <body>
 
-<div class="container">
+<div class="container" style="margin-left: 0;">
 <div class="row">
-	<div class="col-md-6 col-md-offset-3">
-	<h1>Where Your Senators Went to College</h1>
-	<h2>Jay Mahabal</h2>
-	</div>
-</div>
-<div class="row">
-	<div class="col-md-6 col-md-offset-3">
-		Donald Trump's Secretary of Education nominations concluded with a historic vote: Vice President Mike Pence had to break a tie in the Senate to appoint Betsy DeVos. This had been a huge whirlwind of controversy, with constituents calling in record numbers to express their displeasure in DeVos' lack of experience, donations to politicians, and stances on a number of education issues. Even without this context, the media narrative for the last few years has been that Republican Party does not care for public education, and that Democrats do. 
-	</div>
-</div>
-<div class="row">
-	<div class="col-md-6 col-md-offset-3">
-		This is probably more or less accurate, to the extent that it applies to funding higher education. However, this should actually be surprising, because more Republican senators attended public universtities for their Bachelors Degrees than Democrats, as a percentage of their respective groups.   
-	</div>
-</div>
-<div class="row">
-	<div class="col-md-8 col-md-offset-2">
-		<div id="chart"></div>
-	</div>
-</div>
+	<div class="col-md-5 content">
+		<div class="row">
+			<div class="col-md-11 heading">
+				<h1>Where Your Senators Went to College</h1>
+				<h4><a href="https://www.twitter.com/JayMahabal" target="_blank" class="twitter-link"><i class="fa fa-twitter-square" aria-hidden="true"></i>Jay Mahabal</a></h4>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<hr>
+			</div>
+		</div>
 
-<div class="row">
-	<div class="col-md-6 col-md-offset-3">
-		This apparent contradiction may be explained in part by % white.
-		<button id="turntomap">Hihhiii</button>   
-	</div>
-</div>
+		<div class="row">
+			<div class="col-md-11">
+			<p>Donald Trump's Secretary of Education nominations concluded with a historic vote: Vice President Mike Pence broke a tie in the Senate to appoint Betsy DeVos. The appointment had been a huge whirlwind of controversy, with constituents calling in record numbers to express their displeasure in DeVos' lack of experience, donations to politicians, and stances on a number of education issues. Even without this context, the media narrative for the last few years proclaimed that the Republican Party did not care for public education. </p>
 
-<div class="row">
-	<div class="col-md-10 col-md-offset-1">
-		<div id="map"></div>
+			<p>This is probably more or less accurate, to the extent that it applies to funding higher education. However, this should actually be surprising, because more Republican senators attended public universities for their Bachelors Degrees than did Democrats, as a percentage of their respective groups. </p>
+
+			<span id="turntomap"></span>
+
+			<p>One explanation may be that Democrats attended 'better' schools than did Republicans, and thus were more likely to move away from home, or move towards the coasts (where there are more universities). </p>
+
+			<span id="turntorankbeeswarm"></span>
+			<p>One explanation may be that Democrats attended 'better' schools than did Republicans, and thus were more likely to move away from home, or move towards the coasts (where there are more universities). </p>
+
+			<p>One explanation may be that Democrats attended 'better' schools than did Republicans, and thus were more likely to move away from home, or move towards the coasts (where there are more universities). </p>
+
+			<p>One explanation may be that Democrats attended 'better' schools than did Republicans, and thus were more likely to move away from home, or move towards the coasts (where there are more universities). </p>
+
+			<!-- Ranked by University Rankings -->
+			<!-- Ranked by Whiteness percentage -->
+
+
+			</div>
+		</div>
 	</div>
-</div>
+	<div class="col-md-7 fixedchart col-md-offset-5">
+		<div class="row">
+			<div class="col-md-12">
+				<div id="map"></div>
+			</div>
+		</div>
+	</div>
 
 <script src='d3v4.js'></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/2.2.0/topojson.js"></script>

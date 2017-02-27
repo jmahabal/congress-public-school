@@ -4,8 +4,11 @@
 }
 
 .states {
-  fill: #2c3e50;
-  stroke: white;
+  /*fill: #2c3e50;*/
+  fill: none;
+  stroke: #2c3e50;
+  stroke-opacity: 0.7;
+  stroke-width: 0.8;
 }
 
 svg {
@@ -16,7 +19,7 @@ svg {
   position: absolute;
   text-align: left;
   padding: 8px;
-  margin-top: -30px;
+  margin-top: -60px;
   background-color: rgba(255, 255, 255, 0.95);
   pointer-events: none;
   border: 1px black solid;
@@ -24,6 +27,62 @@ svg {
   font-family: 'Inconsolata', monospace
 }
 
-#map {
+.fixedchart {
+	position: fixed;
 	padding: 5em 0em;
+	/*float: right;*/
+}
+
+.content {
+	background-color: #2c3e50;
+	color: #ecf0f1;
+	padding: 3.5em 0em 3.5em 3em;
+	box-shadow: 3px 0px 3px 1px #aaaaaa;
+
+}
+
+p {
+	font-family:  "Source Serif Pro", serif;
+	line-height: 1.5;
+	font-size: 1.7rem;
+}
+
+p + p {
+  margin-top: 2em;
+}
+
+.heading {
+	/*padding-top: 3.5em;*/
+}
+
+h1 {
+	font-family: "Merriweather", serif
+}
+
+h4 {
+	font-family:  "Source Serif Pro", serif;
+}
+
+.twitter-link {
+	padding: 0.1em .3em;
+}
+
+.fa {
+	padding-right:.3em;
+}
+
+hr {
+	margin: 3.5em 20em 3.5em 0em;
+}
+
+a {
+	color: white;
+	/*border-bottom: 1px solid #ecf0f1;*/
+}
+
+a:hover {
+   color: black;
+   /*border-bottom: 0px solid #ecf0f1;*/
+   text-decoration: none;
+   background-color: #f1c40f;
 }

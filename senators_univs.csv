@@ -1,0 +1,186 @@
+,State,Name,Party,Education,INSTNM,DeVos,CITY,STABBR,ZIP,LATITUDE,LONGITUDE,CONTROL,UGDS,UGDS_WHITE,COSTT4_A,countINSTNM,rankScore,rankTimesScore,rankUSNewsScore
+0,Alabama,Richard Shelby,Republican,"University of Alabama, Tuscaloosa(BA; LLB)
+Birmingham School of Law(JD)",The University of Alabama,Yes,Tuscaloosa,AL,35487-0166,33.2144,-87.545766,Public,29851.0,0.7825,26400.0,3,,47,47
+1,Alabama,Luther Strange,Republican,"Tulane University(BA, JD)",Tulane University of Louisiana,Yes,New Orleans,LA,70118-5698,29.939696,-90.120409,Private nonprofit,7892.0,0.7138,61055.0,2,,64,64
+2,Alaska,Lisa Murkowski,Republican,"Georgetown University(BA)
+Willamette University (JD)",Georgetown University,No,Washington,DC,20057-0001,38.908809000000005,-77.073463,Private nonprofit,7211.0,0.5813,62179.0,2,58.8,78,78
+3,Alaska,Dan Sullivan,Republican,"Harvard University(BA)
+Georgetown University(MS; JD)",Harvard University,Yes,Cambridge,MA,02138,42.374429,-71.118177,Private nonprofit,7236.0,0.4527,59950.0,3,91.6,98,98
+4,Arizona,John McCain,Republican,United States Naval Academy (BS),United States Naval Academy,Yes,Annapolis,MD,,38.9820658,-76.4839405,Military,4576,,,1,,86,86
+5,Arizona,Jeff Flake,Republican,"Brigham Young University, Utah (BA; MA)",Brigham Young University-Provo,Yes,Provo,UT,84602,40.250851000000004,-111.649281,Private nonprofit,27163.0,0.832,17236.0,2,,57,57
+6,Arkansas,John Boozman,Republican,"University of Arkansas, Fayetteville(attended)
+Southern College of Optometry(OD)",Southern College of Optometry,Yes,Memphis,TN,38104-2211,35.138252,-90.019856,Private nonprofit,,,,1,,0,0
+7,Arkansas,Tom Cotton,Republican,"Harvard University(BA; JD)
+Claremont Graduate University(attended)",Harvard University,Yes,Cambridge,MA,02138,42.374429,-71.118177,Private nonprofit,7236.0,0.4527,59950.0,2,91.6,98,98
+8,California,Dianne Feinstein,Democratic,Stanford University(BA),Stanford University,No,Stanford,CA,94305,37.426967,-122.168826,Private nonprofit,7018.0,0.3752,60311.0,1,93.9,95,95
+9,California,Kamala Harris,Democratic,"Howard University(BA)
+University of California, Hastings (JD)",Howard University,No,Washington,DC,20059-0001,38.920739000000005,-77.019478,Private nonprofit,6961.0,0.0144,41643.0,2,-,43,43
+10,Colorado,Michael Bennet,Democratic,"Wesleyan University(BA)
+Yale University (JD)",Wesleyan University,No,Middletown,CT,06459,41.556779999999996,-72.656755,Private nonprofit,2907.0,0.5329,62849.0,2,,84,84
+11,Colorado,Cory Gardner,Republican,"Colorado State University, Fort Collins(BA)
+University of Colorado, Boulder (JD)",Colorado State University-Fort Collins,Yes,Fort Collins,CO,80523-0100,40.574759,-105.08083,Public,22373.0,0.7467,22929.0,2,,42,42
+12,Connecticut,Richard Blumenthal,Democratic,"Harvard University(BA)
+Trinity College, Cambridge(attended)
+Yale University (JD)",Harvard University,No,Cambridge,MA,02138,42.374429,-71.118177,Private nonprofit,7236.0,0.4527,59950.0,2,91.6,98,98
+13,Connecticut,Chris Murphy,Democratic,"Williams College (BA)
+University of Connecticut, Hartford (JD)",Williams College,No,Williamstown,MA,01267,42.711669,-73.205888,Private nonprofit,2019.0,0.5557,61850.0,2,,100,100
+14,Delaware,Tom Carper,Democratic,"Ohio State University(BA)
+University of Delaware, Newark (MBA)",Ohio State University-Main Campus,No,Columbus,OH,43210,39.998389,-83.009001,Public,43733.0,0.7194,25029.0,2,,61,61
+15,Delaware,Chris Coons,Democratic,"Amherst College (BA)
+Yale University(MA, JD)",Amherst College,No,Amherst,MA,01002-5000,42.372459,-72.518493,Private nonprofit,1792.0,0.4191,61544.0,3,,95,95
+16,Florida,Bill Nelson,Democratic,"University of Florida(attended)
+Yale University(BA)
+University of Virginia (JD)",Yale University,No,New Haven,CT,06520,41.311158,-72.926688,Private nonprofit,5473.0,0.4705,61620.0,2,87.4,97,97
+17,Florida,Marco Rubio,Republican,"Tarkio College(attended)
+Santa Fe College(attended)
+University of Florida (BA)
+University of Miami (JD)",University of Florida,Yes,Gainesville,FL,32611,29.649428000000004,-82.339958,Public,31879.0,0.5783,20085.0,2,56.1,62,62
+18,Georgia,Johnny Isakson,Republican,University of Georgia (BBA),University of Georgia,Yes,Athens,GA,30602,33.956428,-83.374049,Public,26738.0,0.7228,21981.0,1,-,60,60
+19,Georgia,David Perdue,Republican,Georgia Institute of Technology(BS; MS),Georgia Institute of Technology-Main Campus,Yes,Atlanta,GA,30332-0530,33.773732,-84.396019,Public,13996.0,0.5308,23216.0,2,,67,67
+20,Hawaii,Brian Schatz,Democratic,Pomona College (BA),Pomona College,No,Claremont,CA,91711-6319,34.098298,-117.71194399999999,Private nonprofit,1635.0,0.4269,59730.0,1,,90,90
+21,Hawaii,Mazie Hirono,Democratic,"University of Hawaii, Manoa (BA)
+Georgetown University (JD)",University of Hawaii at Manoa,No,Honolulu,HI,96822-2217,21.292648,-157.816607,Public,13667.0,0.1782,19106.0,2,,34,34
+22,Idaho,Mike Crapo,Republican,"Brigham Young University, Utah (BA)
+Harvard University (JD)",Brigham Young University-Provo,Yes,Provo,UT,84602,40.250851000000004,-111.649281,Private nonprofit,27163.0,0.832,17236.0,2,,57,57
+23,Idaho,Jim Risch,Republican,"University of Wisconsin, Milwaukee(attended)
+University of Idaho, Moscow (BS;JD)",University of Idaho,Yes,Moscow,ID,83844-2282,46.726894,-117.02429599999999,Public,8162.0,0.7725,19381.0,2,-,33,33
+24,Illinois,Dick Durbin,Democratic,Georgetown University(BS; JD),Georgetown University,No,Washington,DC,20057-0001,38.908809000000005,-77.073463,Private nonprofit,7211.0,0.5813,62179.0,2,58.8,78,78
+25,Illinois,Tammy Duckworth,Democratic,"University of Hawaii, Manoa (BA)
+George Washington University(MA)
+Northern Illinois University(attended)
+Capella University(PhD)",University of Hawaii at Manoa,No,Honolulu,HI,96822-2217,21.292648,-157.816607,Public,13667.0,0.1782,19106.0,3,,34,34
+26,Indiana,Joe Donnelly,Democratic,University of Notre Dame(BA; JD),University of Notre Dame,No,Notre Dame,IN,46556,41.703058,-86.238959,Private nonprofit,8427.0,0.7067,60117.0,2,57.6,85,85
+27,Indiana,Todd Young,Republican,"United States Naval Academy (BS)
+University of Chicago(MBA)
+University of London (MA)
+Indiana University, Indianapolis(JD)",United States Naval Academy,Yes,Annapolis,MD,,38.9820658,-76.4839405,Military,4576,,,4,,86,86
+28,Iowa,Chuck Grassley,Republican,"University of Northern Iowa(BA; MA)
+University of Iowa (attended)",University of Northern Iowa,Yes,Cedar Falls,IA,50614-0005,42.514922999999996,-92.459703,Public,9882.0,0.8522,18618.0,2,,73,73
+29,Iowa,Joni Ernst,Republican,"Iowa State University(BA)
+Columbus State University(MPA)",Iowa State University,Yes,Ames,IA,50011-2030,42.026368,-93.648353,Public,28336.0,0.765,18828.0,2,-,45,45
+30,Kansas,Pat Roberts,Republican,"Kansas State University, Manhattan(BA)",Kansas State University,Yes,Manhattan,KS,66506,39.188615999999996,-96.58107700000001,Public,19727.0,0.7783,20722.0,1,-,40,40
+31,Kansas,Jerry Moran,Republican,"Fort Hays State University(attended)
+University of Kansas, Lawrence (BS;JD)",University of Kansas,Yes,Lawrence,KS,66045,38.958551,-95.247618,Public,18802.0,0.7349,23049.0,2,-,44,44
+32,Kentucky,Mitch McConnell,Republican,"University of Louisville (BA)
+University of Kentucky (JD)",University of Louisville,Yes,Louisville,KY,40292-0001,38.215752,-85.758843,Public,15038.0,0.763,22389.0,2,,33,33
+33,Kentucky,Rand Paul,Republican,"Baylor University(attended)
+Duke University(MD)",Duke University,Yes,Durham,NC,27708,36.00159,-78.94226,Private nonprofit,6480.0,0.4775,61748.0,1,82.7,92,92
+34,Louisiana,Bill Cassidy,Republican,"Louisiana State University, Baton Rogue(BS)
+Louisiana State University, New Orleans(MD)",Louisiana State University and Agricultural & Mechanical College,Yes,Baton Rouge,LA,70803-2750,30.414983000000003,-91.178921,Public,24452.0,0.7415,21846.0,2,,40,40
+35,Louisiana,John N. Kennedy,Republican,"Vanderbilt University(BA)
+University of Virginia (JD)
+Magdalen College, Oxford (BCL)",Vanderbilt University,Yes,Nashville,TN,37240,36.14443,-86.804875,Private nonprofit,6818.0,0.5826,61112.0,3,60.1,85,85
+36,Maine,Susan Collins,Republican,St. Lawrence University(BA),St Lawrence University,No,Canton,NY,13617,44.589878999999996,-75.161343,Private nonprofit,2282.0,0.7918,59550.0,1,,67,67
+37,Maine,Angus King,Independent,"Dartmouth College (BA)
+University of Virginia (JD)",Dartmouth College,No,Hanover,NH,03755-3529,43.70408,-72.289951,Private nonprofit,4184.0,0.4804,63279.0,2,57.8,90,90
+38,Maryland,Ben Cardin,Democratic,"University of Pittsburgh(BA)
+University of Maryland, Baltimore (JD)",University of Pittsburgh-Pittsburgh Campus,No,Pittsburgh,PA,15260,40.444502,-79.95469200000001,Public,18474.0,0.7571,31828.0,2,,57,57
+39,Maryland,Chris Van Hollen,Democratic,"Swarthmore College (BA)
+Georgetown University (JD)
+Harvard University(MPP)",Swarthmore College,No,Swarthmore,PA,19081,39.904081,-75.356066,Private nonprofit,1530.0,0.4183,60671.0,3,,93,93
+40,Massachusetts,Elizabeth Warren,Democratic,"George Washington University(attended)
+University of Houston (BS)
+Rutgers University, Newark (JD)",University of Houston,No,Houston,TX,77204-2018,29.719988,-95.344851,Public,31643.0,0.2718,22713.0,2,-,29,29
+41,Massachusetts,Ed Markey,Democratic,Boston College (BA;JD),Boston College,No,Chestnut Hill,MA,02467,42.337688,-71.171488,Private nonprofit,9483.0,0.6075,60690.0,2,49.6,70,70
+42,Michigan,Debbie Stabenow,Democratic,Michigan State University(BA; MSW),Michigan State University,No,East Lansing,MI,48824-1046,42.73212,-84.476111,Public,38395.0,0.6813,24323.0,2,58.0,52,52
+43,Michigan,Gary Peters,Democratic,"Alma College(BA)
+University of Detroit (MBA)
+Wayne State University (JD)
+Michigan State University(MA)",Alma College,No,Alma,MI,48801-1599,43.379236,-84.670073,Private nonprofit,1362.0,0.8355,44636.0,4,,43,43
+44,Minnesota,Amy Klobuchar,Democratic,"Yale University(BA)
+University of Chicago (JD)",Yale University,No,New Haven,CT,06520,41.311158,-72.926688,Private nonprofit,5473.0,0.4705,61620.0,2,87.4,97,97
+45,Minnesota,Al Franken,Democratic,Harvard University(BA),Harvard University,No,Cambridge,MA,02138,42.374429,-71.118177,Private nonprofit,7236.0,0.4527,59950.0,1,91.6,98,98
+46,Mississippi,Thad Cochran,Republican,"University of Mississippi, Oxford (BA;JD)",University of Mississippi,Yes,University,MS,38677-1848,34.362144,-89.539377,Public,17809.0,0.7735,22444.0,2,,40,40
+47,Mississippi,Roger Wicker,Republican,"University of Mississippi, Oxford (BA;JD)",University of Mississippi,Yes,University,MS,38677-1848,34.362144,-89.539377,Public,17809.0,0.7735,22444.0,2,,40,40
+48,Missouri,Claire McCaskill,Democratic,"University of Missouri, Columbia (BS;JD)",University of Missouri-Columbia,No,Columbia,MO,65211,38.941015,-92.326429,Public,27276.0,0.7923,22943.0,2,,45,45
+49,Missouri,Roy Blunt,Republican,"Southwest Baptist University, Bolivar (BA)
+Missouri State University, Springfield(MA)",Southwest Baptist University,Yes,Bolivar,MO,65613-2596,37.601603000000004,-93.410451,Private nonprofit,2477.0,0.8321,29870.0,2,,0,0
+50,Montana,Jon Tester,Democratic,University of Great Falls(BS),University of Great Falls,No,Great Falls,MT,59405-4996,47.490279,-111.27016699999999,Private nonprofit,1035.0,0.7565,32581.0,1,,45,45
+51,Montana,Steve Daines,Republican,"Montana State University, Bozeman (BS)",Montana State University,Yes,Bozeman,MT,59717,45.666829,-111.04991799999999,Public,13117.0,0.8506,18886.0,1,-,26,26
+52,Nebraska,Deb Fischer,Republican,"University of Nebraska, Lincoln (BS)",University of Nebraska-Lincoln,Yes,Lincoln,NE,68588,40.822272,-96.702177,Public,19979.0,0.7784,21286.0,1,-,45,45
+53,Nebraska,Ben Sasse,Republican,"Harvard University(BA)
+St. John's College, Maryland (MA)
+Yale University(MA, MPhil,PhD)",Harvard University,Yes,Cambridge,MA,02138,42.374429,-71.118177,Private nonprofit,7236.0,0.4527,59950.0,5,91.6,98,98
+54,Nevada,Dean Heller,Republican,University of Southern California(BBA),University of Southern California,Yes,Los Angeles,CA,90089,34.021058000000004,-118.28385800000001,Private nonprofit,18392.0,0.3644,62092.0,1,65.5,77,77
+55,Nevada,Catherine Cortez Masto,Democratic,"University of Nevada, Reno (BS)
+Gonzaga University (JD)",University of Nevada-Reno,No,Reno,NV,89557,39.545052,-119.818424,Public,16330.0,0.624,20675.0,2,,28,28
+56,New Hampshire,Jeanne Shaheen,Democratic,"Shippensburg University(BA)
+University of Mississippi, Oxford (MSS)",Shippensburg University of Pennsylvania,No,Shippensburg,PA,17257-2299,40.057404999999996,-77.5229,Public,6246.0,0.7922,23152.0,2,,51,51
+57,New Hampshire,Maggie Hassan,Democratic,"Brown University(BA)
+Northeastern University (JD)",Brown University,No,Providence,RI,02912,41.827605,-71.40446700000001,Private nonprofit,6264.0,0.4355,60460.0,2,69.6,87,87
+58,New Jersey,Bob Menendez,Democratic,"St. Peter's University(BA)
+Rutgers University, Newark (JD)",Saint Peter's University,No,Jersey City,NJ,07306-5997,40.727105,-74.071541,Private nonprofit,2409.0,0.1997,43111.0,2,,50,50
+59,New Jersey,Cory Booker,Democratic,"Stanford University(BA; MA)
+Queen's College, Oxford (MA)
+Yale University (JD)",Stanford University,No,Stanford,CA,94305,37.426967,-122.168826,Private nonprofit,7018.0,0.3752,60311.0,4,93.9,95,95
+60,New Mexico,Tom Udall,Democratic,"Prescott College (BA)
+Downing College, Cambridge(LLB)
+University of New Mexico, Albuquerque(JD)",Prescott College,No,Prescott,AZ,86301,34.5445,-112.47650900000001,Private nonprofit,454.0,0.7004,41256.0,3,,29,29
+61,New Mexico,Martin Heinrich,Democratic,"University of Missouri, Columbia (BS)
+University of New Mexico, Albuquerque(attended)",University of Missouri-Columbia,No,Columbia,MO,65211,38.941015,-92.326429,Public,27276.0,0.7923,22943.0,1,,45,45
+62,New York,Chuck Schumer,Democratic,Harvard University(BA; JD),Harvard University,No,Cambridge,MA,02138,42.374429,-71.118177,Private nonprofit,7236.0,0.4527,59950.0,2,91.6,98,98
+63,New York,Kirsten Gillibrand,Democratic,"Dartmouth College (BA)
+University of California, Los Angeles(JD)",Dartmouth College,No,Hanover,NH,03755-3529,43.70408,-72.289951,Private nonprofit,4184.0,0.4804,63279.0,2,57.8,90,90
+64,North Carolina,Richard Burr,Republican,Wake Forest University(BA),Wake Forest University,Yes,Winston-Salem,NC,27106,36.135301,-80.279004,Private nonprofit,4861.0,0.7371,60210.0,1,-,74,74
+65,North Carolina,Thom Tillis,Republican,"Chattanooga State Community College(attended)
+University of Maryland, University College (BA)",University of Maryland-University College,Yes,Adelphi,MD,20783-8010,38.986299,-76.954104,Public,33892.0,0.4231,13525.0,1,,0,0
+66,North Dakota,John Hoeven,Republican,"Dartmouth College (BA)
+Northwestern University(MBA)",Dartmouth College,Yes,Hanover,NH,03755-3529,43.70408,-72.289951,Private nonprofit,4184.0,0.4804,63279.0,2,57.8,90,90
+67,North Dakota,Heidi Heitkamp,Democratic,"University of North Dakota(BA)
+Lewis and Clark College(JD)",University of North Dakota,No,Grand Forks,ND,58202-8193,47.919774,-97.073451,Public,10978.0,0.8151,20306.0,2,,27,27
+68,Ohio,Sherrod Brown,Democratic,"Yale University(BA)
+Ohio State University(MA; MPA)",Yale University,No,New Haven,CT,06520,41.311158,-72.926688,Private nonprofit,5473.0,0.4705,61620.0,3,87.4,97,97
+69,Ohio,Rob Portman,Republican,"Dartmouth College (BA)
+University of Michigan, Ann Arbor(JD)",Dartmouth College,Yes,Hanover,NH,03755-3529,43.70408,-72.289951,Private nonprofit,4184.0,0.4804,63279.0,2,57.8,90,90
+70,Oklahoma,Jim Inhofe,Republican,University of Tulsa (BA),University of Tulsa,Yes,Tulsa,OK,74104-3189,36.151887,-95.945175,Private nonprofit,3441.0,0.5495,49323.0,1,-,51,51
+71,Oklahoma,James Lankford,Republican,"University of Texas, Austin(BS)
+Southwestern Baptist Theological Seminary(MDiv)",The University of Texas at Austin,Yes,Austin,TX,78712,30.286597999999998,-97.73924,Public,38914.0,0.4603,25918.0,2,,60,60
+72,Oregon,Ron Wyden,Democratic,"University of California, Santa Barbara(attended)
+Stanford University(BA)
+University of Oregon (JD)",Stanford University,No,Stanford,CA,94305,37.426967,-122.168826,Private nonprofit,7018.0,0.3752,60311.0,2,93.9,95,95
+73,Oregon,Jeff Merkley,Democratic,"Stanford University(BA)
+Princeton University(MPA)",Stanford University,No,Stanford,CA,94305,37.426967,-122.168826,Private nonprofit,7018.0,0.3752,60311.0,2,93.9,95,95
+74,Pennsylvania,Bob Casey Jr.,Democratic,"College of the Holy Cross(BA)
+Catholic University of America (JD)",College of the Holy Cross,No,Worcester,MA,01610-2395,42.238942,-71.808627,Private nonprofit,2754.0,0.6932,57754.0,2,,78,78
+75,Pennsylvania,Pat Toomey,Republican,Harvard University(BA),Harvard University,Yes,Cambridge,MA,02138,42.374429,-71.118177,Private nonprofit,7236.0,0.4527,59950.0,1,91.6,98,98
+76,Rhode Island,Jack Reed,Democratic,"United States Military Academy (BS)
+Harvard University(MPP, JD)",United States Military Academy,No,West Point,NY,,41.3918372,-73.9625033,Military,4348,,,3,,85,85
+77,Rhode Island,Sheldon Whitehouse,Democratic,"Yale University(BA)
+University of Virginia (JD)",Yale University,No,New Haven,CT,06520,41.311158,-72.926688,Private nonprofit,5473.0,0.4705,61620.0,2,87.4,97,97
+78,South Carolina,Lindsey Graham,Republican,"University of South Carolina, Columbia (BA;JD)",University of South Carolina-Columbia,Yes,Columbia,SC,29208,33.998973,-81.026971,Public,24623.0,0.7725,24586.0,2,,46,46
+79,South Carolina,Tim Scott,Republican,"Presbyterian College(attended)
+Charleston Southern University(BS)",Charleston Southern University,Yes,Charleston,SC,29406-9121,32.981986,-80.069288,Private nonprofit,2949.0,0.6033,34528.0,1,,36,36
+80,South Dakota,John Thune,Republican,"Biola University(BS)
+University of South Dakota(MBA)",Biola University,Yes,La Mirada,CA,90639-0001,33.904823,-118.017342,Private nonprofit,4364.0,0.5165,46162.0,2,,35,35
+81,South Dakota,Mike Rounds,Republican,South Dakota State University(BS),South Dakota State University,Yes,Brookings,SD,57007-1898,44.31942,-96.783415,Public,10003.0,0.8935,19330.0,1,,27,27
+82,Tennessee,Lamar Alexander,Republican,"Vanderbilt University(BA)
+New York University (JD)",Vanderbilt University,Yes,Nashville,TN,37240,36.14443,-86.804875,Private nonprofit,6818.0,0.5826,61112.0,2,60.1,85,85
+83,Tennessee,Bob Corker,Republican,"University of Tennessee, Knoxville (BS)",The University of Tennessee-Knoxville,Yes,Knoxville,TN,37996,35.955093,-83.92969599999999,Public,21396.0,0.7979,27450.0,1,,47,47
+84,Texas,John Cornyn,Republican,"Trinity University, Texas (BA)
+St. Mary's University, Texas (JD)
+University of Virginia (LLM)",Trinity University,Yes,San Antonio,TX,78212-7200,29.46286,-98.482577,Private nonprofit,2223.0,0.5623,48579.0,3,,100,100
+85,Texas,Ted Cruz,Republican,"Princeton University(BA)
+Harvard University (JD)",Princeton University,Yes,Princeton,NJ,08544-0070,40.34853,-74.66360300000001,Private nonprofit,5258.0,0.4597,57400.0,2,90.1,100,100
+86,Utah,Orrin Hatch,Republican,"Brigham Young University, Utah (BA)
+University of Pittsburgh(JD)",Brigham Young University-Provo,Yes,Provo,UT,84602,40.250851000000004,-111.649281,Private nonprofit,27163.0,0.832,17236.0,2,,57,57
+87,Utah,Mike Lee,Republican,"Brigham Young University, Utah (BA; JD)",Brigham Young University-Provo,Yes,Provo,UT,84602,40.250851000000004,-111.649281,Private nonprofit,27163.0,0.832,17236.0,2,,57,57
+88,Vermont,Patrick Leahy,Democratic,"St. Michael's College (BA)
+Georgetown University (JD)",Saint Michael's College,No,Colchester,VT,05439,44.494212,-73.163136,Private nonprofit,2038.0,0.8611,50806.0,2,,54,54
+89,Vermont,Bernie Sanders,Independent,"Brooklyn College(attended)
+University of Chicago (BS)",University of Chicago,No,Chicago,IL,60637,41.78917,-87.601196,Private nonprofit,5729.0,0.4491,64988.0,1,87.9,97,97
+90,Virginia,Mark Warner,Democratic,"George Washington University(BA)
+Harvard University (JD)",George Washington University,No,Washington,DC,20052,38.89865,-77.047871,Private nonprofit,10433.0,0.5835,61394.0,2,-,60,60
+91,Virginia,Tim Kaine,Democratic,"University of Missouri, Columbia (BA)
+Harvard University (JD)",University of Missouri-Columbia,No,Columbia,MO,65211,38.941015,-92.326429,Public,27276.0,0.7923,22943.0,2,,45,45
+92,Washington,Patty Murray,Democratic,"Washington State University, Pullman (BA)",Washington State University,No,Pullman,WA,99164-5910,46.730447999999996,-117.15816799999999,Public,23585.0,0.6499,26543.0,1,-,39,39
+93,Washington,Maria Cantwell,Democratic,Miami University(BA),Miami University-Oxford,No,Oxford,OH,45056,39.509642,-84.731821,Public,15454.0,0.7984,29701.0,1,,53,53
+94,West Virginia,Joe Manchin,Democratic,"West Virginia University, Morgantown(BS)",West Virginia University,No,Morgantown,WV,26506-6201,39.634679999999996,-79.953926,Public,21945.0,0.814,17585.0,1,,31,31
+95,West Virginia,Shelley Moore Capito,Republican,"Duke University(BS)
+University of Virginia (MEd)",Duke University,Yes,Durham,NC,27708,36.00159,-78.94226,Private nonprofit,6480.0,0.4775,61748.0,2,82.7,92,92
+96,Wisconsin,Ron Johnson,Republican,"University of Minnesota, Twin Cities(BS)",University of Minnesota-Twin Cities,Yes,Minneapolis,MN,55455-0213,44.977886,-93.235352,Public,30135.0,0.7037,24551.0,1,,55,55
+97,Wisconsin,Tammy Baldwin,Democratic,"Smith College(BA)
+University of Wisconsin, Madison (JD)",Smith College,No,Northampton,MA,01063,42.317933000000004,-72.638094,Private nonprofit,2563.0,0.4604,60167.0,2,,86,86
+98,Wyoming,Mike Enzi,Republican,"George Washington University(BS)
+University of Denver (MBA)",George Washington University,Yes,Washington,DC,20052,38.89865,-77.047871,Private nonprofit,10433.0,0.5835,61394.0,2,-,60,60
+99,Wyoming,John Barrasso,Republican,"Rensselaer Polytechnic Institute(attended)
+Georgetown University(BS; MD)",Georgetown University,Yes,Washington,DC,20057-0001,38.908809000000005,-77.073463,Private nonprofit,7211.0,0.5813,62179.0,2,58.8,78,78
